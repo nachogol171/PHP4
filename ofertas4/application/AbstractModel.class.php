@@ -1,5 +1,5 @@
 <?php
-
+hhhhf
 abstract class AbstractModel {
   /*
    * @registry object
